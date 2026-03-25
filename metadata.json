@@ -1,0 +1,5 @@
+{
+  "name": "Hà Image",
+  "description": "An AI-powered image generation application using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
